@@ -1,13 +1,6 @@
-# IDE
 .idea
-.vscode
-
-# Node
 node_modules
-
-# MacOS
 .DS_Store
-
-# Generated files
-backstop_data
+yarn.lock
+package-lock.json
 dist
